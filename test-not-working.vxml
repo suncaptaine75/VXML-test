@@ -2,7 +2,7 @@
 <vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="fr-FR">
 <field name="pincode" type="digits?length=6">
   <filled>
-    <if cond="pincode == 179430">
+    <if cond="pincode == XXXXXX">
 	  <prompt>All right</prompt>
    </if>
   </filled>
